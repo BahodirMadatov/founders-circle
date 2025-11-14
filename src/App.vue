@@ -4,7 +4,7 @@
       <div class="container mx-auto px-6 flex items-center justify-between">
         <div class="flex items-center gap-3">
           <div class="w-10 h-10 rounded-full bg-gradient-to-br  flex items-center justify-center">
-            <img src="./public/images/header_logo.jpg" alt="">
+            <img src="/images/header_logo.jpg" alt="">
           </div>
           <div>
             <h1 class="text-xl font-semibold">Founders Circle</h1>
@@ -51,7 +51,7 @@
             <div class="flex justify-center">
               <div class="relative hero-figure w-full max-w-md">
                 <div class="rounded-xl overflow-hidden bg-white card-shadow anim-float">
-                  <img src="./public/images/hero.jpg" alt="Founders Circle hero" class="w-full h-100% object-cover" />
+                  <img src="/images/hero.jpg" alt="Founders Circle hero" class="w-full h-100% object-cover" />
                 </div>
                 
               </div>
@@ -130,20 +130,20 @@
         <div class="mt-6 grid grid-cols-2 sm:grid-cols-4 gap-6 items-center">
           
             <a href="https://www.undp.org/uzbekistan" target="_blank" class="flex items-center justify-center p-6 bg-white border rounded">
-              <img src="./public/images/undp.png" alt="UNDP" class="h-16 sm:h-20 object-contain" />
+              <img src="/images/undp.png" alt="UNDP" class="h-16 sm:h-20 object-contain" />
             </a>
           
           
             <a href="https://aut-edu.uz/" target="_blank" class="flex items-center justify-center p-6 bg-white border rounded">
-              <img src="./public/images/aut.jpg" alt="AUT" class="h-16 sm:h-20 object-contain" />
+              <img src="/images/aut.jpg" alt="AUT" class="h-16 sm:h-20 object-contain" />
             </a>
           
             <a href="https://yoshlarventures.uz/en/" target="_blank" class="flex items-center justify-center p-6 bg-white border rounded">
-              <img src="./public/images/yoshlarvent.jpg" alt="Yoshlar Ventures" class="h-16 sm:h-20 object-contain" />
+              <img src="/images/yoshlarvent.jpg" alt="Yoshlar Ventures" class="h-16 sm:h-20 object-contain" />
             </a>
           
             <a href="https://aisha.group/en" target="_blank" class="flex items-center justify-center p-6 bg-white border rounded">
-              <img src="./public/images/aisha.jpg" alt="Aisha" class="h-16 sm:h-20 object-contain rounded-full" />
+              <img src="/images/aisha.jpg" alt="Aisha" class="h-16 sm:h-20 object-contain rounded-full" />
             </a>
           
         </div>
@@ -155,10 +155,10 @@
         <p class="mt-2 text-slate-700">Founders Circle has already hosted multiple sessions bringing together passionate builders, students, and early-stage entrepreneurs. Our past gatherings featured live demos, product showcases, and spontaneous collaborations — all in a warm, friendly environment.</p>
 
         <div class="mt-6 grid grid-cols-2 md:grid-cols-4 gap-4">
-          <img src="./public/images/photo_2025-11-14_14-03-19.jpg" alt="meetup 1" class="gallery-thumb" />
-          <img src="./public/images/photo_2025-11-14_14-03-37.jpg" alt="meetup 2" class="gallery-thumb" />
-          <img src="./public/images/photo_2025-11-14_14-03-43.jpg" alt="meetup 3" class="gallery-thumb" />
-          <img src="./public/images/photo_2025-11-14_14-03-50.jpg" alt="meetup 4" class="gallery-thumb" />
+          <img src="/images/photo_2025-11-14_14-03-19.jpg" alt="meetup 1" class="gallery-thumb" />
+          <img src="/images/photo_2025-11-14_14-03-37.jpg" alt="meetup 2" class="gallery-thumb" />
+          <img src="/images/photo_2025-11-14_14-03-43.jpg" alt="meetup 3" class="gallery-thumb" />
+          <img src="/images/photo_2025-11-14_14-03-50.jpg" alt="meetup 4" class="gallery-thumb" />
         </div>
       </section>
     </main>
