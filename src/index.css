@@ -19,6 +19,9 @@ body { @apply bg-white text-slate-800 antialiased; }
   box-shadow: 0 8px 24px rgba(15,23,42,0.06);
 }
 
+/* Card base utility for consistent look */
+.card-base{ @apply bg-white/80 backdrop-blur-sm shadow-md rounded-xl p-6 }
+
 /* Decorative circle behind hero image */
 .hero-decor{
   position: absolute;
